@@ -12,8 +12,8 @@
 * java -version
 
 ### 3.  Update the Java home 
- update JAVA_HOME form Haddop directory  **<HADOOP_DIR>/etc/hadoop/hadoop-env.sh**
+* update JAVA_HOME form Haddop directory  **<HADOOP_DIR>/etc/hadoop/hadoop-env.sh**
 
 ### 4. execute below command and make sure you are getting usage documentation for the hadoop script
-**<HADOOP_DIR>/bin/hadoop**
+* **<HADOOP_DIR>/bin/hadoop**
 
