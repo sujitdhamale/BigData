@@ -7,5 +7,6 @@
 * uname  -a
 * uname  -i
 
-### 2. Install jva using belwo commad in Linux
+### 2. Install java and check Version using belwo commads in Linux
 * *sudo yum install java*
+* java -version
