@@ -17,3 +17,11 @@
 ### 4. execute below command and make sure you are getting usage documentation for the hadoop script
 * **<HADOOP_DIR>/bin/hadoop**
 
+
+
+
+
+## Issue faced 
+
+
+* [01 issue for HDFS_SECONDARYNAMENODE_USER](https://github.com/sujitdhamale/pandas/blob/master/01%20Pandas%20Series.ipynb)	
