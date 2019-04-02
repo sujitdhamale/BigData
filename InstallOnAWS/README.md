@@ -24,4 +24,4 @@
 ## Issue faced 
 
 
-* [01 issue for HDFS_SECONDARYNAMENODE_USER](https://github.com/sujitdhamale/pandas/blob/master/01%20Pandas%20Series.ipynb)	
+* [01 issue for HDFS_SECONDARYNAMENODE_USER](https://github.com/sujitdhamale/BigData/blob/master/InstallOnAWS/issue01/README.md)	
